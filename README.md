@@ -128,3 +128,8 @@ cd /elasticsearch/elasticsearch-6.2.2/bin/
 ./elasticsearch -d
 ```
 
+## 参考链接
+
+[https://www.sojson.com/blog/81.html](https://www.sojson.com/blog/81.html)
+
+[https://blog.csdn.net/qq_33363618/article/details/78882827](https://blog.csdn.net/qq_33363618/article/details/78882827)
