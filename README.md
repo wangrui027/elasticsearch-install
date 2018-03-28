@@ -12,7 +12,7 @@ yum install http://mirrors.gfstack.geo/Oracle/JAVA/8/8u162/linux/jdk-8u162-linux
 
 ## 创建目录下载文件
 
-`elasticsearch-6.2.2.tar.gz`和`elasticsearch-analysis-ik-6.2.2.zip`可能存在下载速度慢的问题，可到项目的[download](download)目录下下载。
+`elasticsearch-6.2.2.tar.gz`和`elasticsearch-analysis-ik-6.2.2.zip`可能存在下载速度慢的问题，可到项目的`download`目录下下载。
 
 ```bash
 mkdir /elasticsearch
